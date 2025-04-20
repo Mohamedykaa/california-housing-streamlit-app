@@ -1,0 +1,15 @@
+# Python Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Generated Files (IMPORTANT!)
+*.pkl
+model_report.txt
+
+# IDE / Editor specific
+.vscode/
+.idea/
